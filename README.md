@@ -2,6 +2,12 @@
 
 An NLP-based text emotion classification project. The training notebook prepares labeled text, converts it into numerical features with `CountVectorizer`, compares two scikit-learn classifiers, and reports their test-set accuracy. The Streamlit app uses the saved model artifacts to classify text entered by a user.
 
+## App Preview
+
+![Emotion Classifier App](app-screenshot.png)
+
+**Live Demo:** [Try the Emotion Classifier](https://emotion-classifier-joyroy.streamlit.app/)
+
 ## Project structure
 
 ```text
